@@ -1,0 +1,25 @@
+<html>
+    <body>
+        <h1>Clique no Botão!</h1>
+        <a href="https://github.com/blackfoxybr1/Matematica-2/blob/main/ford.jpeg?raw=true">
+        <button><b>Clique Aqui!</b></button>
+        </a>
+    </body>
+    <style>
+        button {
+            position: relative;
+            cursor: not-allowed;
+            font-size: large;
+            float: midle;
+            height: 30px;
+            color: rgb(0, 0, 0);
+            background-color: rgba(153, 255, 0, 0.719);
+            font-style: italic;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            border-radius: 10px;
+            border-bottom: 0px;
+            border-top: 0px;
+            border-right: 0px;
+            border-left: 0px;
+        }
+    </style>
